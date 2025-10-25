@@ -31,7 +31,8 @@ Close the cycle (return to start).
 
 Step 3: Output
 
-Prints results by zone.
+Results by zone
+as it's shown in the map.
 ---
 # License & Attribution
 
