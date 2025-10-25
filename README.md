@@ -1,6 +1,6 @@
 # Neybor-Route-Planner-5-Zone-Optimization
 This script automatically groups Neybor houses into five optimized geographic zones using a K-Means++ clustering algorithm, then computes the shortest cyclic route between houses inside each zone.
-It’s a practical routing tool for proeprty & operations who need to plan maintenance tickets for maintenance team or event organizers who need to plan house visits efficiently ensuring that each zone has a clear, logical path.
+It’s a practical routing tool for property & operations who need to plan maintenance tickets for maintenance team or event organizers who need to plan house visits efficiently ensuring that each zone has a clear, logical path.
 ---
 # Map Output
 The 5 optimized zones and cyclic routes are visualized here:
